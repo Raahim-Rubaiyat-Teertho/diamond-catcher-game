@@ -1,1 +1,1 @@
-# diamond-catcher-game
+A simple diamond catcher game made using pyopengl
